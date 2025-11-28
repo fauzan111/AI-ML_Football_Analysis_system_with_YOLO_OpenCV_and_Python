@@ -49,7 +49,6 @@ This project demonstrates the power of unstructured data analysis in sports anal
 
 ### 1. Run the Analysis
 Execute the main script to process the video:
-**Link for the input Video-** https://drive.google.com/file/d/1MID9gDCW1Vc1qJTQcTsOQnx_4s7kBpTi/view?usp=drive_link
 ```bash
 python main.py
 ```
@@ -58,6 +57,7 @@ This will:
 - Display progress in the terminal.
 - Generate `output_video.avi` with all annotations.
 - Save tracking data to `tracks.pkl`.
+- **Link for the input Video-** https://drive.google.com/file/d/1MID9gDCW1Vc1qJTQcTsOQnx_4s7kBpTi/view?usp=drive_link
 
 ### 2. Generate Heatmap
 After the analysis is complete, generate a movement heatmap:
