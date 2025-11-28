@@ -1,7 +1,7 @@
 # AI/ML Football Analysis System
 
-![Banner](heatmap_output.png)
-*(Example Heatmap Output)*
+![Image](https://github.com/user-attachments/assets/bd709b75-2705-4d52-806f-c4798276d3ef)
+*(Gameplay overview)*
 
 ## ⚽ Project Overview
 **Computer Vision Scout** is an advanced AI-powered system designed to analyze football match footage. It leverages state-of-the-art computer vision models (YOLOv8) and machine learning techniques to detect players, track their movements, identify teams, and provide actionable insights like speed estimation and possession statistics.
