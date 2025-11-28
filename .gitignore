@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Videos
+*.mp4
+*.avi
+
+# Models
+*.pt
+
+# Data
+tracks.pkl
+heatmap_output.png
+
+# VS Code
+.vscode/
