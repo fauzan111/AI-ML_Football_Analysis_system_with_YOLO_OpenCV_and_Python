@@ -49,6 +49,7 @@ This project demonstrates the power of unstructured data analysis in sports anal
 
 ### 1. Run the Analysis
 Execute the main script to process the video:
+**Link for the input Video-** https://drive.google.com/file/d/1MID9gDCW1Vc1qJTQcTsOQnx_4s7kBpTi/view?usp=drive_link
 ```bash
 python main.py
 ```
