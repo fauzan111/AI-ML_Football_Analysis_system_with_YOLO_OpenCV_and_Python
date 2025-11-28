@@ -75,8 +75,9 @@ This will save `heatmap_output.png`.
   }
   ```
   **Link for ouput video-** https://drive.google.com/file/d/1p7mkqZYVr3MhHoavhOL6PgG8hQusy0I7/view?usp=drive_link
-  **HeatMap**
+  
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7c29d70-8896-4049-9fb6-f413c30cdd3d" />
+  ###HeatMap
 - **Models**: The system uses `yolov8m.pt` by default. You can change this in `main.py` for speed (n/s) or accuracy (l/x).
 
 ## 📊 How It Works
